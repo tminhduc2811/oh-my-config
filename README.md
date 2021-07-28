@@ -9,3 +9,4 @@ Oh my config
 - git https://github.com/tpope/vim-fugitive
 - ctrl P https://github.com/kien/ctrlp.vim
 - nerdtree https://github.com/preservim/nerdtree ctrl n
+- coc https://github.com/neoclide/coc.nvim
